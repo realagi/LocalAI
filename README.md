@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <img height="300" src="https://github.com/go-skynet/LocalAI/assets/2420543/0966aa2a-166e-4f99-a3e5-6c915fc997dd"> <br>
-    LocalAI
+    LocalAI (RealAGI Flavored)
 <br>
 </h1>
 
